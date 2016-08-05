@@ -1,1 +1,6 @@
 # ui.R
+
+shinyUI(fluidpage(
+  
+  
+))
